@@ -1,0 +1,1685 @@
+<div
+  class="jobsearch-RecentSearches-background"
+  role="tabpanel"
+  id="jobfeed-content-undefined"
+>
+  <div class="jobsearch-RecentSearches-a11yLayout">
+    <div class="css-yu5l5a e37uo190">
+      <div class="css-2ul3zw eu4oa1w0">
+        <div
+          class="jobsearch-RecentSearchesMixedJobFeed is-mobile is-inFeed"
+          data-testid="new-job-feed-wrapper"
+        >
+          <div>
+            <div class="jobsearch-RecentSearchesMixedJobFeed-headerContainer">
+              <h2 data-testid="job-feed-header" class="css-1ljpgji e1tiznh50">
+                <b>Job feed</b>
+              </h2>
+              <div class="jobsearch-RecentSearchesMixedJobFeed-title">
+                <div class="jobsearch-RecentSearchesMixedJobFeed-header">
+                  Jobs based on your activity on Indeed
+                </div>
+              </div>
+            </div>
+            <div class="css-t4tohf eu4oa1w0">
+              <div id="mosaic-belowSubheader" class="mosaic-zone"></div>
+            </div>
+            <div
+              data-testid="editable-preferences-wrapper"
+              class="css-u74ql7 eu4oa1w0"
+            ></div>
+            <div
+              data-testid="feed-render-ui-wrapper"
+              class="jobsearch-RecentSearchesMixedJobFeed-jobsContainer css-u74ql7 eu4oa1w0"
+            >
+              <div
+                id="mosaic-provider-jobcards"
+                class="mosaic mosaic-provider-jobcards mosaic-provider-hydrated"
+                style="
+                  --mosaic-placeholder-width: 0;
+                  --mosaic-placeholder-height: 0;
+                "
+              >
+                <ul class="css-zu9cdh eu4oa1w0">
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_9f79169be1ecd7c2 resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_9f79169be1ecd7c2"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="9f79169be1ecd7c2"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Software Engineer 3 - Data Scientist &amp; Machine learning"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=9f79169be1ecd7c2&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB00eiCvR2uwbdn0ESh0-YeiiGNPYEXzWzKd1ZwGXaUHgwE8nD0CElX5JIe5dj26pwVWJ2_bRVA0G9ixndyiGxomRA5qjh8AexZH8OrcqxMySalfapjg8tSzEYuPNH8FSgA%3D&amp;xkcb=SoCi67M3_vc0AZxZbx0LbzkdCdPP"
+                                            >Software Engineer 3 - Data
+                                            Scientist &amp; Machine learning</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div
+                                          elementtiming="significant-render"
+                                          data-testid="timing-attribute"
+                                        >
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >Juniper Networks</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Bengaluru, Karnataka
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Just posted</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_0e5a62441e1b4ec9 resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_0e5a62441e1b4ec9"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="0e5a62441e1b4ec9"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Software Engineer Staff - Next-gen Service Edge"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=0e5a62441e1b4ec9&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB2cuEtidnuzX3_xx8DJtwMjPrdbg_2uyY5YmAebXjGgCvHg8uKyuT3ElYvKaVORubRwd3EcXdaB-bZIgbaEbMR8GV_SB58ZWKs_kMaXl55RdA3y3-FPYPWPBpmYhZSehkI%3D&amp;xkcb=SoAW67M3_vc0AZxZbx0KbzkdCdPP"
+                                            >Software Engineer Staff - Next-gen
+                                            Service Edge</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >Juniper Networks</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Bengaluru, Karnataka
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div class="aqSignalRedLight-wrapper">
+                                          <div class="css-a0bg28 eu4oa1w0">
+                                            <div>
+                                              <div
+                                                data-testid="jobCardAQSignalItem-false"
+                                                class="css-1u56wzd eu4oa1w0"
+                                              >
+                                                <span
+                                                  data-testid="jobCardAQSignalTitle-false"
+                                                  class="css-xtq21u eu4oa1w0"
+                                                  >Your profile may be missing
+                                                  qualifications</span
+                                                >
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Just posted</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_7f287dc394dd7676 resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_7f287dc394dd7676"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="7f287dc394dd7676"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Front End Developer"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=7f287dc394dd7676&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB1fXXd9sPhn7hcobk9AmOWn6qUUXsaBCxGOdegrtrnXMgG_ZaEVP6kCmnc4QPbfykU5k0JR6puyKm2ow0MKDIXPKdqayJJ3Yej9fSJxCBHAd1y2kXmi7XOpewj7n7X4Z0g%3D&amp;xkcb=SoAs67M3_vc0AYRZbx0LbzkdCdPP"
+                                            >Front End Developer</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >Vigyos</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Gwalior, Madhya Pradesh
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div
+                                          class="heading6 tapItem-gutter metadataContainer css-z5ecg7 eu4oa1w0"
+                                        ></div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Employer</span
+                                      >Active 3 days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_c68fc8062d0aed69 resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_c68fc8062d0aed69"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="c68fc8062d0aed69"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Full Stack .Net Developer"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=c68fc8062d0aed69&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB2X0G7C3uQlrnILlSli7roWegFnnudD752L3QkJsAkCO4c0hmuJUqlVPZRIj7WKZJGUK4qjPzlqlINjF9jB6yMFqniWhyugf7-co5TTaXIY3VzunMdDDMoXX1GhXlJTc7k%3D&amp;xkcb=SoCY67M3_vc0AYRZbx0KbzkdCdPP"
+                                            >Full Stack .Net Developer</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >Addmen IT Solutions</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Gwalior, Madhya Pradesh
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div
+                                          class="heading6 tapItem-gutter metadataContainer css-z5ecg7 eu4oa1w0"
+                                        ></div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Employer</span
+                                      >Active 3 days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_cbad3293d7acb93d resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_cbad3293d7acb93d"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="cbad3293d7acb93d"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Lead Web Optimization Specialist"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=cbad3293d7acb93d&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB3b-QdHMo0PJ4LBiyIazjVv94cN4NoJrzwKI7rCYo3ASwEVnqyf1cMza8KzafRLIWBhu8uyII3B50xrjpwD11-TdwFiHdage-EuQIvviUPGNGjEWu8itywYa8M55PmYweE%3D&amp;xkcb=SoBp67M3_vc0AYxZbx0LbzkdCdPP"
+                                            >Lead Web Optimization Specialist</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >Juniper Networks</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Bengaluru, Karnataka
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div class="aqSignalRedLight-wrapper">
+                                          <div class="css-a0bg28 eu4oa1w0">
+                                            <div>
+                                              <div
+                                                data-testid="jobCardAQSignalItem-false"
+                                                class="css-1u56wzd eu4oa1w0"
+                                              >
+                                                <span
+                                                  data-testid="jobCardAQSignalTitle-false"
+                                                  class="css-xtq21u eu4oa1w0"
+                                                  >Your profile may be missing
+                                                  qualifications</span
+                                                >
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Posted 2 days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_e9c74ec19edf9ddb resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_e9c74ec19edf9ddb"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="e9c74ec19edf9ddb"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of MERNSTACK"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=e9c74ec19edf9ddb&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB1lfT0FsTS-S6Q1gQDBJCUp842kxivtEqNjqU03-vScrZfj3F_2rhhajkuu1W0bNyL6XPeaRiyLCaTrial5ugF0eqHYCBByeLv9Mi7DSwNbIbSML-4Z-lltiFJnaUaRUvI%3D&amp;xkcb=SoDd67M3_vc0AYxZbx0KbzkdCdPP"
+                                            >MERNSTACK</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >DigiMonk Technologies</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Gwalior, Madhya Pradesh
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div
+                                          class="heading6 tapItem-gutter metadataContainer css-z5ecg7 eu4oa1w0"
+                                        ></div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Posted 30+ days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_24be60061b5be64c resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_24be60061b5be64c"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="24be60061b5be64c"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Java Software Developer"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=24be60061b5be64c&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB1Y4UhRTWWCVpStDqNLDI2DV0vchFSpmTc6ERAkm3fVNEAbfJDz2cuEJ8neVhaXzlzi8pdtpq0Nijb2653u1lere2n8fPPgc51pZl-IYPhWcoYKqpRjSIiWeNwxiXgwnKM%3D&amp;xkcb=SoAw67M3_vc0AbRZbx0LbzkdCdPP"
+                                            >Java Software Developer</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >SNS System</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Gwalior, Madhya Pradesh
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div
+                                          class="heading6 tapItem-gutter metadataContainer css-z5ecg7 eu4oa1w0"
+                                        ></div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Posted 30+ days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <span class="dd-privacy-mask"
+                      ><div
+                        id="mosaic-JobFeed1"
+                        class="mosaic mosaic-empty-zone"
+                      >
+                        <div
+                          id="mosaic-provider-homepage-app-promo"
+                          class="mosaic mosaic-provider-homepage-app-promo mosaic-rst"
+                        ></div></div
+                    ></span>
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_c6676c64e771e515 resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_c6676c64e771e515"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="c6676c64e771e515"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of CORE JAVA Software Developer"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=c6676c64e771e515&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB2w3_ENQcLJEWaioQUIUyn2ms8iIZTKuFBGSWxvepRrGprc-RkG-H92LaTSDN2nU6GmwxO0OTmc09UAQgNvoRi3O_Chh4e41T4Oxy7WbFIZ0RN4ycnMapSPLT01JY-RbkU%3D&amp;xkcb=SoCE67M3_vc0AbRZbx0KbzkdCdPP"
+                                            >CORE JAVA Software Developer</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >SNS System</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Gwalior, Madhya Pradesh
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div
+                                          class="heading6 tapItem-gutter metadataContainer css-z5ecg7 eu4oa1w0"
+                                        ></div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Posted 30+ days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_38440a13cf3bd5f3 resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_38440a13cf3bd5f3"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="38440a13cf3bd5f3"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Java Developer"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=38440a13cf3bd5f3&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB1Wpu_TOocZmPMfAQbmB35YV4GbJv9OjE6rX4xGZVlhl95fPIaTYIGrQhASuooTu6sDLbkLN5nVXc_5GsY68tmguHrvlpDxmkIXLChP2Kc7GL-unS23HRWTUpcRcsALdD8%3D&amp;xkcb=SoB167M3_vc0AbxZbx0LbzkdCdPP"
+                                            >Java Developer</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >TechiesGroup IT Solution Pvt
+                                              Ltd</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Gwalior, Madhya Pradesh
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Posted 30+ days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                  <li class="css-5lfssm eu4oa1w0">
+                    <!--$-->
+                    <div
+                      class="cardOutline tapItem dd-privacy-allow result job_07db25e3fd8488c0 resultWithShelf sponTapItem css-yria2i eu4oa1w0"
+                    >
+                      <div
+                        class="slider_container css-12igfu2 eu4oa1w0"
+                        data-testid="slider_container"
+                        dir="auto"
+                      >
+                        <div class="slider_list css-ltdjbe eu4oa1w0">
+                          <div
+                            data-testid="slider_item"
+                            class="slider_item css-mk9n32 eu4oa1w0"
+                          >
+                            <div class="job_seen_beacon">
+                              <table
+                                class="big6_visualChanges css-1v79ar eu4oa1w0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                role="presentation"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      class="resultContent css-1qwrrf0 eu4oa1w0"
+                                    >
+                                      <div class="css-dekpa e37uo190">
+                                        <h2
+                                          class="jobTitle css-198pbd eu4oa1w0"
+                                          tabindex="-1"
+                                        >
+                                          <a
+                                            id="job_07db25e3fd8488c0"
+                                            data-mobtk="1i1faeuhdist5800"
+                                            data-jk="07db25e3fd8488c0"
+                                            data-hiring-event="false"
+                                            target="_blank"
+                                            data-hide-spinner="true"
+                                            aria-label="full details of Test Engineer Staff - Layer 2/Layer 3 protocols/Test automation"
+                                            class="jcs-JobTitle css-jspxzf eu4oa1w0"
+                                            href="/rc/clk?jk=07db25e3fd8488c0&amp;from=hp&amp;tk=1i1faeuhdist5800&amp;bb=1WxSlWQyiB2SACc2bPOJbAdWunYaJvf9xguqfRWCm4il5nfo-UU1k86QOj_-2lEymmB2ZmCJ3di8iikU4fG3-HLK3I-baz-BLQJYbk5SFi2tgU0iKNDUHB8C2kDqiIs2znHI904x2Rg%3D&amp;xkcb=SoDB67M3_vc0AbxZbx0KbzkdCdPP"
+                                            >Test Engineer Staff - Layer 2/Layer
+                                            3 protocols/Test automation</a
+                                          >
+                                        </h2>
+                                        <div class="css-1hlnck6 e37uo190"></div>
+                                      </div>
+                                      <div
+                                        class="company_location css-17fky0v e37uo190"
+                                      >
+                                        <div data-testid="timing-attribute">
+                                          <div class="css-1qv0295 e37uo190">
+                                            <span
+                                              data-testid="company-name"
+                                              class="css-63koeb eu4oa1w0"
+                                              >Juniper Networks</span
+                                            >
+                                          </div>
+                                          <div
+                                            data-testid="text-location"
+                                            class="css-1p0sjhy eu4oa1w0"
+                                          >
+                                            Bengaluru, Karnataka
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="jobMetaDataGroup css-pj786l eu4oa1w0"
+                                      >
+                                        <div class="aqSignalRedLight-wrapper">
+                                          <div class="css-a0bg28 eu4oa1w0">
+                                            <div>
+                                              <div
+                                                data-testid="jobCardAQSignalItem-false"
+                                                class="css-1u56wzd eu4oa1w0"
+                                              >
+                                                <span
+                                                  data-testid="jobCardAQSignalTitle-false"
+                                                  class="css-xtq21u eu4oa1w0"
+                                                  >Your profile may be missing
+                                                  qualifications</span
+                                                >
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div
+                                          class="heading6 error-text tapItem-gutter"
+                                        ></div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <div
+                                role="presentation"
+                                class="css-1u8dvic eu4oa1w0"
+                              >
+                                <div class="underShelfFooter">
+                                  <div
+                                    class="heading6 tapItem-gutter css-1rgici5 eu4oa1w0"
+                                  >
+                                    <span
+                                      data-testid="myJobsStateDate"
+                                      class="css-qvloho eu4oa1w0"
+                                      ><span class="css-10pe3me eu4oa1w0"
+                                        >Posted</span
+                                      >Posted 2 days ago</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="ctaContainer">
+                                <button
+                                  class="bookmark bookmark-tap-target css-xravig e8ju0x51"
+                                  aria-label="Save job"
+                                  aria-pressed="false"
+                                >
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    focusable="false"
+                                    role="presentation"
+                                    fill="currentColor"
+                                    viewBox="0 0 24 24"
+                                    aria-hidden="true"
+                                    class="mosaic-provider-jobcards-12dcz5i eac13zx0"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M12 14.616l6 3.905V4H6v14.52l6-3.905zM4.383 21.96A.25.25 0 014 21.748V2.502a.5.5 0 01.5-.5h15a.5.5 0 01.5.5v19.246a.25.25 0 01-.383.212L12 17.002 4.383 21.96z"
+                                      clip-rule="evenodd"
+                                    ></path>
+                                  </svg></button
+                                ><button
+                                  class="dislike-tap-target css-irraxw e8ju0x51"
+                                  aria-label="Not interested"
+                                >
+                                  <svg
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    role="presentation"
+                                    aria-hidden="true"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    style="width: 1.5rem; height: 1.5rem"
+                                  >
+                                    <path
+                                      d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM4 12C4 7.58 7.58 4 12 4C13.85 4 15.55 4.63 16.9 5.69L5.69 16.9C4.63 15.55 4 13.85 4 12ZM12 20C10.15 20 8.45 19.37 7.1 18.31L18.31 7.1C19.37 8.45 20 10.15 20 12C20 16.42 16.42 20 12 20Z"
+                                      fill="#2d2d2d"
+                                    ></path>
+                                  </svg>
+                                </button>
+                              </div>
+                              <div aria-live="polite"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <span
+                      aria-live="polite"
+                      class="visually-hidden css-10pe3me eu4oa1w0"
+                    ></span
+                    ><!--/$-->
+                  </li>
+                </ul>
+                <div id="toast" aria-live="polite"></div>
+                <script>
+                  window.JCS_onClk = function Ce(e) {
+                    e.preventDefault(), e.stopPropagation();
+                    for (var t = e.target, r = !1, n = !1; t; ) {
+                      if (t.className?.indexOf)
+                        if (t.className.indexOf("bookmark ") > -1) r = !0;
+                        else if (
+                          t.className.indexOf("dislike-tap-target ") > -1
+                        )
+                          n = !0;
+                        else if (t.className.indexOf("result ") > -1) {
+                          r
+                            ? window.jcsSavedJobs.indexOf(t.id) < 0 &&
+                              window.jcsSavedJobs.push(t.id)
+                            : n
+                            ? window.jcsDislikedJobs.indexOf(t.id) < 0 &&
+                              window.jcsDislikedJobs.push(t.id)
+                            : (window.jcsClickedJob = t.id);
+                          break;
+                        }
+                      t = t.parentNode;
+                    }
+                  };
+                  (function () {
+                    if (!window.jcsSavedJobs) {
+                      var e = document.getElementById(
+                        "mosaic-provider-jobcards"
+                      );
+                      (window.jcsSavedJobs = []),
+                        (window.jcsDislikedJobs = []),
+                        (window.jcsClickedJob = null),
+                        e &&
+                          (e.addEventListener("click", window.JCS_onClk),
+                          (window.removeJcsOnClickFn = function () {
+                            e &&
+                              e.removeEventListener("click", window.JCS_onClk);
+                          }));
+                    }
+                  })();
+                </script>
+              </div>
+              <div hidden="">
+                <div id="mosaic-belowResults" class="mosaic-zone"></div>
+              </div>
+              <div aria-live="polite" aria-atomic="true">
+                <div class="css-1m687b9 eu4oa1w0">
+                  <div>
+                    <div class="css-15ii6hc e37uo190">
+                      <button data-cy="show-more" class="css-13p1miv e8ju0x50">
+                        <span>Show more jobs</span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <span class="css-8u2krs esbq1260">&nbsp;</span>
+              </div>
+              <div id="mosaic-belowJobFeed" class="mosaic-zone"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="css-1u56afg eu4oa1w0"></div>
+  </div>
+</div>
